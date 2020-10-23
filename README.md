@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Hyperblog 💚
 
-You can use the [editor on GitHub](https://github.com/cdanisuarez/github-example/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Un blog increible para el curso de Git y Github de Platzi.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> El curso de Git y Github de Platzi es lo que me hacia falta para triplicar mi salario y lanzarme a la industria del tejido de lana sintetica con Machine Learning
+> - Asi es
 
-### Markdown
+## En este curso vemos de todo
+------------
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Todos los comandos de Git
+* El flujo de trabaio de Github
+* El verdadero amor por las buenas practicas
+*  Trucos muy locos del profesor
+* Las personalidades multiples de Freddy
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cdanisuarez/github-example/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Y como un amable recordatorio: **Este md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/ "a ver el curso").
